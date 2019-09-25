@@ -1,4 +1,4 @@
-package com.ake.kotlin.learn.other.collections
+package com.ake.kotlin.learn.other.collections.introduce
 
 fun printAll(strings: Collection<String>){
     for(s: String in strings){

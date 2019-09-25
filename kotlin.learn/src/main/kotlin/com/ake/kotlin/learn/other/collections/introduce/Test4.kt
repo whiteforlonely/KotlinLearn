@@ -1,4 +1,4 @@
-package com.ake.kotlin.learn.other.collections
+package com.ake.kotlin.learn.other.collections.introduce
 
 import java.lang.IllegalStateException
 

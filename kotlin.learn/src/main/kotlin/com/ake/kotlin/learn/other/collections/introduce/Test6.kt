@@ -1,4 +1,4 @@
-package com.ake.kotlin.learn.other.collections
+package com.ake.kotlin.learn.other.collections.introduce
 
 /*
 这边让我见识到的一个奇特的地方是这边的集合竟然是可以直接的通过运算符来进行

@@ -1,4 +1,4 @@
-package com.ake.kotlin.learn.other.collections
+package com.ake.kotlin.learn.other.collections.introduce
 
 /*
 从这边的猜测，能够体会到的就是，现在的这个list和java中的list是有很大的差别的。

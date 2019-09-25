@@ -1,4 +1,4 @@
-package com.ake.kotlin.learn.other.collections
+package com.ake.kotlin.learn.other.collections.introduce
 
 fun main() {
     val map1 = mapOf(1 to "one", 2 to "two", 3 to "three")
