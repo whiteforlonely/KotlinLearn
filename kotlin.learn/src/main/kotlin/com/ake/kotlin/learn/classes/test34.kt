@@ -1,6 +1,6 @@
 package com.ake.kotlin.learn.classes
 
-data class User(val name: String = "", val age: Int = 0){
+data class User(var name: String = "", var age: Int = 0){
 
 //    fun copy(name:String = this.name, age:Int = this.age) = User(name, age)
 }
