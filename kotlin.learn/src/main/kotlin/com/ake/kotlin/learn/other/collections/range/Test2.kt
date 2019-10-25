@@ -11,6 +11,9 @@ class Version(var major: Int, var minor: Int): Comparable<Version>{
 
 }
 
+/*
+从这个例子看来，in的关键字的使用的前提是item必须时刻比较的类型的
+ */
 fun main() {
     val versionRange = Version(1, 11)..Version(1, 30)
     println(Version(1, 20) in versionRange)
